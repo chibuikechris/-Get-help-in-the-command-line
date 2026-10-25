@@ -1,5 +1,5 @@
 # -Getting-help-in-the-command-line
-This focuses on how and where to get help on Linux right through the command line
+- This focuses on how and where to get help on Linux right through the command line
 # Learn more about commands
 whatis cat
 # To get more details about cat, using man returns a general description of cat and information about each of it's options
