@@ -1,4 +1,4 @@
-# -Getting-help-in-the-command-line
+# Getting-help-in-the-command-line
 # Overview
 - This focuses on how and where to get help on Linux right through the command line
 # Learn more about commands
